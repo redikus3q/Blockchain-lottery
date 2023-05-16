@@ -10,7 +10,11 @@ Deployed in Sepolia testnet using Hardhat, Ethers, Etherscan and NPM.
 Made using React and Ethers.
 
 ## Usage
-Go to /Lottery and run:
+Go to /Lottery and install the dependencies:
+```
+npm install
+```
+Then run the server:
 ```
 npm start
 ```
