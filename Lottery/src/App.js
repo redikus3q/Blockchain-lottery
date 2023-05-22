@@ -1,5 +1,5 @@
 import { ethers } from "ethers";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { FaMoneyBillAlt } from "react-icons/fa";
 import "./App.css";
 import contractABI from "./contractABI.js";
